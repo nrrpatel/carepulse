@@ -209,7 +209,7 @@ const RegisterForm = ({ user }: {user: User}) => {
                     fieldType={FormFieldType.PHONE_INPUT}
                     control={form.control}
                     name = "emergencyContactNumber"
-                    label = "Emergency Contact Numher"
+                    label = "Emergency Contact Number"
                     placeholder = "(647) 123-4567"
                     iconSrc="/assets/icons/phone.svg"
                     iconAlt="phone"

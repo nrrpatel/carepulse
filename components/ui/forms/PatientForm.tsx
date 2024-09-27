@@ -92,7 +92,7 @@ const PatientForm = () => {
             fieldType={FormFieldType.PHONE_INPUT}
             control={form.control}
             name = "phone"
-            label = "Phone Numher"
+            label = "Phone Number"
             placeholder = "(647) 123-4567"
             iconSrc="/assets/icons/phone.svg"
             iconAlt="phone"
